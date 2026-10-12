@@ -1,1 +1,1 @@
-echo "Hello Git" > hello 2.txt
+echo "Another file" > hello 2.txt
